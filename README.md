@@ -4,17 +4,17 @@ This repository contains my work on Python OpenCV that covers the foundational c
 
 ## Contents Covered
 
-> Working with video and webcam input
-> Drawing shapes and text on images
-> Image resizing, cropping, and rotation
-> Color space conversions (BGR to HSV, etc.)
-> Blurring and smoothing filters
-> Edge detection using the Canny algorithm
-> Morphological transformations (dilation, erosion)
-> Face detection
-> Color detection
-> Stacking images
-> Shape detection
+> Working with video and webcam input,
+> Drawing shapes and text on images,
+> Image resizing, cropping, and rotation,
+> Color space conversions (BGR to HSV, etc.),
+> Blurring and smoothing filters,
+> Edge detection using the Canny algorithm,
+> Morphological transformations (dilation, erosion),
+> Face detection,
+> Color detection,
+> Stacking images,
+> Shape detection,
 > Warp perspective
 
 ## Tools & Libraries
